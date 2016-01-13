@@ -6,6 +6,7 @@ A curated list of awesome geo tools, software, demos, maps and data
     - [Software and Tools](#software-and-tools)
     - [Geo Demos and Maps](#geo-demos-and-maps)
     - [Data](#data)
+    - [Python Libraries](#python-libraries)
 
 ##Software and Tools
 
@@ -40,3 +41,12 @@ A curated list of awesome geo tools, software, demos, maps and data
 * [Global Imagery Browse Services (GIBS)](https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs) - Imagery web services for global earth observation datasets from NASA.
 * [Natural Earth](http://www.naturalearthdata.com/) - Freely available global map vector dataset available at 1:10m, 1:50m, and 1:110 million scales 
 
+##Python Libraries
+
+* [GDAL](https://pypi.python.org/pypi/GDAL/) - Python bindings for GDAL
+* [PyQGIS](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) - Loads of geo functions for extending QGIS functionality and writing stand alone applications.
+* [Fiona](https://pypi.python.org/pypi/Fiona) - Reads and writes spatial data files
+* [Rasterio](https://pypi.python.org/pypi/rasterio) - Reads and writes geospatial raster datasets 
+* [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
+* [Coorblimey](https://pypi.python.org/pypi/coorblimey/0.1) - For converting between geocentric and geographic coordinates. 
+* [Bokeh](http://bokeh.pydata.org/en/latest/) - For creating interactive visualisations for web browsers.
