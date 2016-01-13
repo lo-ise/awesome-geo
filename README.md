@@ -1,5 +1,5 @@
 # geo-awesome
-A curated list of awesome geo tools, software, demos, maps and data
+A curated list of awesome geo tools, software, demos, maps and data. Inspired by [Awesome Python](http://awesome-python.com/) and [Awesome lists](https://github.com/sindresorhus/awesome) in general.
 
 
 - [Awesome Geo](#awesome-geo)
@@ -12,7 +12,6 @@ A curated list of awesome geo tools, software, demos, maps and data
 
 * [dropchop.io](http://dropchop.io) - Simple browser based GIS. makes creating a buffer super quick.
 * [QGIS](http://qgis.org) - a free and open source Geographic Information System (GIS)
-* [Geocento](http://geocento.com/) - Satellite imagery searching tools
 * [Astro Digital - Landsat 8](https://fetch.astrodigital.com) - Search for Landsat 8 scenes and publish a map that can be used in any web or mobile application.
 * [PointVue](http://pointvue-le.software.informer.com/7.0/) - Free software for visualising Lidar point clouds in LAS format.
 * [LASTools](http://rapidlasso.com/lastools/) - Command line tools for fast and efficient Lidar data operations.
