@@ -1,4 +1,4 @@
-# geo-awesome
+# awesome-geo
 A curated list of awesome geo tools, software, demos, maps and data. Inspired by [Awesome Python](http://awesome-python.com/) and [Awesome lists](https://github.com/sindresorhus/awesome) in general.
 
 
