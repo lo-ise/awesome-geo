@@ -2,6 +2,11 @@
 A curated list of awesome geo tools, software, demos, maps and data
 
 
+- [Awesome Geo](#awesome-geo)
+    - [Software and Tools](#software-and-tools)
+    - [Geo Demos and Maps](#geo-demos-and-maps)
+    - [Data](#data)
+
 ##Software and Tools
 
 * [dropchop.io](http://dropchop.io) - Simple browser based GIS. makes creating a buffer super quick.
