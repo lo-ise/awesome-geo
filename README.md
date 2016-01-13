@@ -11,13 +11,13 @@ A curated list of awesome geo tools, software, demos and stuff
 
 * [QGIS](http://qgis.org) - a free and open source Geographic Information System (GIS)
 
-##Geo Demos and Mapping
+##Geo Demos 
 
 * [Spinning Globe](https://www.jasondavies.com/maps/rotate/) - Demo of a spinning globe in the browser, using d3.js.
 * [Lidar DSM map of England and Wales](https://houseprices.io/lab/lidar/map) - Nice visualisation of all the UK Environment Agencies open Lidar DSM data. 
 
 ##Maps
 
-* [Polarview](http://www.polarview.aq/antarctica) - Sea ice information, data and SAR imagery for the Antarctic. 
+* [Polarview](http://www.polarview.aq/antarctic) - Sea ice information, data and SAR imagery for the Antarctic. 
 
 
