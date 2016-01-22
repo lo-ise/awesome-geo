@@ -20,7 +20,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 * [DroneLab](https://www.dronelab.io/) - Service for viewing and sharing orthomosaics.
 * [Mapbox](https://www.mapbox.com/) - An open source mapping platform for custom designed maps.
 * [CartoDB](https://cartodb.com/) - A mapping platform to design and build maps. 
-
+* [Remote Pixel Landsat 8 Evolution](http://remotepixel.ca/webmapping/landsat8evolution.html) - Create time series GIFs of Landsat 8 imagery.
 
 ##Geo Demos and Maps 
 
