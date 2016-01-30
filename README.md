@@ -49,3 +49,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [Coorblimey](https://pypi.python.org/pypi/coorblimey/0.1) - For converting between geocentric and geographic coordinates. 
 * [Bokeh](http://bokeh.pydata.org/en/latest/) - For creating interactive visualisations for web browsers.
+
+## Icons
+
+* [stateface](https://propublica.github.io/stateface) - US states as an icon font.
