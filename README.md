@@ -7,7 +7,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
     - [Geo Demos and Maps](#geo-demos-and-maps)
     - [Data](#data)
     - [Python Libraries](#python-libraries)
-    - [Icons][#icons]
+    - [Icons](#icons)
 
 ##Software and Tools
 
