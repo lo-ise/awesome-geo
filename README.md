@@ -21,6 +21,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 * [Mapbox](https://www.mapbox.com/) - An open source mapping platform for custom designed maps.
 * [CartoDB](https://cartodb.com/) - A mapping platform to design and build maps. 
 * [Remote Pixel Landsat 8 Evolution](http://remotepixel.ca/webmapping/landsat8evolution.html) - Create time series GIFs of Landsat 8 imagery.
+* [osm2vectortiles](http://osm2vectortiles.org/) - Create a custom base map in minutes.
 
 ##Geo Demos and Maps 
 
