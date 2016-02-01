@@ -7,6 +7,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
     - [Geo Demos and Maps](#geo-demos-and-maps)
     - [Data](#data)
     - [Python Libraries](#python-libraries)
+    - [Icons](#icons)
 
 ##Software and Tools
 
@@ -21,6 +22,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 * [Mapbox](https://www.mapbox.com/) - An open source mapping platform for custom designed maps.
 * [CartoDB](https://cartodb.com/) - A mapping platform to design and build maps. 
 * [Remote Pixel Landsat 8 Evolution](http://remotepixel.ca/webmapping/landsat8evolution.html) - Create time series GIFs of Landsat 8 imagery.
+* [osm2vectortiles](http://osm2vectortiles.org/) - Create a custom base map in minutes.
 
 ##Geo Demos and Maps 
 
@@ -50,3 +52,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [Coorblimey](https://pypi.python.org/pypi/coorblimey/0.1) - For converting between geocentric and geographic coordinates. 
 * [Bokeh](http://bokeh.pydata.org/en/latest/) - For creating interactive visualisations for web browsers.
+
+## Icons
+
+* [Stateface](https://propublica.github.io/stateface) - US states as an icon font.
