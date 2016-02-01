@@ -34,6 +34,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 * [OpenStreetMap](https://www.openstreetmap.org) - The place for street level map data.
 * [OpenTopography](http://www.opentopography.org/) - Free and openly available topographic data.
 * [OpenAerialMap](http://openaerialmap.org/) - A collection of openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
+* [Earth Images by Geocento](http://eilite.geocento.com/) - An app for search and download of a huge range of freely available and commercial satellite imagery. 
 * [Polarview](http://www.polarview.aq/antarctic) - Sea ice information, data and SAR imagery for the Antarctic. 
 * [NASA OceanColor](http://oceancolor.gsfc.nasa.gov/cms/) - Satellite derived ocean color data products available free from NASA.
 * [Landsat 8 on Amazon Web Services (AWS)](https://aws.amazon.com/public-data-sets/landsat/) - Information on how to access Landsat 8 data via AWS. 
