@@ -11,6 +11,7 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 
 ##Software and Tools
 
+* [Prominara](https://prominara.com/) - The SEO tool for the AI search era.
 * [dropchop.io](http://dropchop.io) - Simple browser based GIS. makes creating a buffer super quick.
 * [QGIS](http://qgis.org) - a free and open source Geographic Information System (GIS)
 * [Astro Digital - Landsat 8](https://fetch.astrodigital.com) - Search for Landsat 8 scenes and publish a map that can be used in any web or mobile application.
